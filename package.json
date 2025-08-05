@@ -2,11 +2,15 @@
   "name": "niiozic",
   "version": "4.5.0",
   "description": "Developed by Niio-team",
-  "main": "mirai.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node index",
+    "start": "node index.js",
     "login": "node login",
-    "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
+    "test": "node --trace-warnings --use_strict --async-stack-traces mirai.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.9"
   },
   "repository": {
     "type": "git",
