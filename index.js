@@ -1,3 +1,15 @@
+const express = require("express");
+const app = express();
+const port = process.env.PORT || 3000;
+
+app.get("/", (req, res) => {
+  res.send("Bot is running!");
+});
+
+app.listen(port, () => {
+  console.log(`Web server listening on port ${port}`);
+});
+
 const { spawn } = require("child_process");
 const log = require("./utils/log");
 require('./includes/chess/covua');
