@@ -3,11 +3,11 @@
     "notiGroup": true,
     "MAINTENANCE": false,
     "allowInbox": false,
-    "BOTNAME": "🦋 𝘽𝙤𝙩 𝘼𝙀𝙈𝟵 🦋",
-    "AMDIN_NAME": "𝐻𝑜𝑎𝑛𝑔𝑀𝑖𝑛ℎ𝐶ℎ𝑖𝑒𝑛 🦋",
+    "BOTNAME": "𝐴𝑛ℎ𝐸𝑚𝑀𝟿 𝑷𝒉𝟒𝒏𝑻𝟎𝒎 🦋",
+    "AMDIN_NAME": "𝐻𝑜𝑎̀𝑛𝑔 𝑀𝑖𝑛ℎ 𝐶ℎ𝑖𝑒̂́𝑛 𝑇𝑟𝑖𝑐𝑘𝑒𝑟 🦋",
     "keyRent": "Lunar",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/share/16cPYr2rXm/",
-    "PREFIX": ".",
+    "FACEBOOK_ADMIN": "fb.com/hmc.aka.m9",
+    "PREFIX": "!",
     "box_admin": " 23908922468804653",
     "ADMINBOT": [
         "61576656392723",
@@ -47,7 +47,7 @@
         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
     },
     "version": "5.0.0",
-    "ACCESSTOKEN": "EAAAAUaZA8jlABO3qZB6kq7FRg2EFbpjWAFkgXxex0y1NDfewZBYZBeEqRR0pXYYC0XjCDSYNlliqSUxfsT1h4mj1PRQHfnSnE2iI6MtYts7lY5bIKqY8y8zr7b7UszJnyrJzrS7QUjEgHUeWg9nBOmXSctr8f1B2ZA4qgqZAlUiyg0JYVOCqDYZCiYckAZDZD",
+    "ACCESSTOKEN": "EAABsbCS1iHgBPIsmSk1Nfyq7lXcy5S56t4PdjlvPjhbHghDOK12N063co82R2OM2yKUtDPVEkJhYk1Slhl4cAc7oOXrEjoujKZBjLSr6vx0D4P3FPJAwWiwsfX2HT8MZAOqorxnKJ5805zZCm3kf7XK8MZCxZAUJfIQyvPFEkaYJBY6GIa0zLWlVoiYMBLLCtjAZDZD",
     "leave": {
         "status": false,
         "number": 5
