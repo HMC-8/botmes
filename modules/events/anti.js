@@ -20,7 +20,7 @@ module.exports.run = async function ({ api, event, Threads, Users }) {
         const findAd = threadInf.adminIDs.find((el) => el.id === event.author);
         if (!findAd || !botID.includes(event.author)) {
             await api.setTitle(DataAnti[event.threadID].namebox, event.threadID);
-            await api.sendMessage(`⚠️ Bạn không có quyền đổi tên nhóm`, event.threadID);
+            await api.sendMessage(`❌`, event.threadID);
         }
     } else if (event.logMessageType == "log:subscribe" && DataAnti[event.threadID] && DataAnti[event.threadID].join) {
         if (event.logMessageData.addedParticipants.some(i => i.userFbId == botID)) return;
